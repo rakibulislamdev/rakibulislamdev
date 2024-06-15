@@ -6,9 +6,9 @@ A full-time web Application developer based in Bangladesh.
 
 ### Connect with me!
 <p align="left">
-<a href="https://linkedin.com/in/iamrakib2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrakib2" height="30" width="40" /></a>
-<a href="https://fb.com/iamrakib2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrakib2" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_rakib2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_rakib2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rakibulislamdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul islam" height="30" width="40" /></a>
+<a href="https://fb.com/iamrakib2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibul islam" height="30" width="40" /></a>
+<a href="https://instagram.com/rakibulislamdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibul islam" height="30" width="40" /></a>
 </p>
 
 ### 🚀 What I do
